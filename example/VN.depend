@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1496549809 source:d:\programming\console program\c++\vn\header\cafeteria.cpp
+	"cafeteria.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1496543280 d:\programming\console program\c++\vn\header\cafeteria.h
+	"Location.hpp"
+
+1496463423 d:\programming\console program\c++\vn\header\location.hpp
+	<string>
+	"player.hpp"
+
+1496550181 d:\programming\console program\c++\vn\header\player.hpp
+	<string>
+
+1496550164 source:d:\programming\console program\c++\vn\header\field.cpp
+	"field.hpp"
+	<iostream>
+	<string>
+	<algorithm>
+
+1496547683 d:\programming\console program\c++\vn\header\field.hpp
+	"Location.hpp"
+	<string>
+
+1496463280 source:d:\programming\console program\c++\vn\header\player.cpp
+	"player.hpp"
+	<iostream>
+
